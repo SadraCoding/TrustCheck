@@ -42,4 +42,4 @@ You can access the service directly at: [TrustCheck](https://trustcheck.ir)
 
 ## Credits
 
-Made by **Sadra Milani Moghaddam** | [sadramilani.ir](https://sadramilani.ir)
+Made by | [SadraCoding](https://github.com/SadraCoding)
